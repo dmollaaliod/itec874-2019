@@ -1,0 +1,8 @@
+channels:
+  - defaults
+  - damianavila82
+dependencies:
+  - nltk
+  - rise
+  - pip:
+      - git+git://github.com/mkrphys/ipython-tikzmagic.git
