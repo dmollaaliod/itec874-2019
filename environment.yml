@@ -3,6 +3,7 @@ channels:
   - damianavila82
 dependencies:
   - nltk
+  - numpy
   - rise
   - pip:
       - git+git://github.com/mkrphys/ipython-tikzmagic.git
