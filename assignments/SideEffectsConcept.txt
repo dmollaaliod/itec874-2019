@@ -1,0 +1,102 @@
+CLASSIFIER:Abdominal pain
+CLASSIFIER:Aggression
+CLASSIFIER:Agitation
+CLASSIFIER:Allergic reaction
+CLASSIFIER:Amnesia
+CLASSIFIER:Anemia
+CLASSIFIER:Back pain
+CLASSIFIER:Blindness
+CLASSIFIER:Blurred vision
+CLASSIFIER:Bone pain
+CLASSIFIER:Breast pain
+CLASSIFIER:breathing
+CLASSIFIER:Chest pain
+CLASSIFIER:Chills
+CLASSIFIER:Cold symptoms
+CLASSIFIER:Colitis
+CLASSIFIER:Colored vision
+CLASSIFIER:Confusion
+CLASSIFIER:Constipation
+CLASSIFIER:Cough
+CLASSIFIER:Diabetes mellitus
+CLASSIFIER:Diarrhea
+CLASSIFIER:Dizziness
+CLASSIFIER:Dry mouth
+CLASSIFIER:Dyspepsia
+CLASSIFIER:Exhaustion
+CLASSIFIER:Fainting
+CLASSIFIER:Fast heartbeat
+CLASSIFIER:Fever
+CLASSIFIER:Fluid in the lungs
+CLASSIFIER:Frequent urination
+CLASSIFIER:Hair loss
+CLASSIFIER:Hallucinations
+CLASSIFIER:Headache
+CLASSIFIER:Heart attack
+CLASSIFIER:Heart palpitations
+CLASSIFIER:Heartburn
+CLASSIFIER:Hepatitus
+CLASSIFIER:High blood pressure
+CLASSIFIER:Hostile
+CLASSIFIER:Hostility
+CLASSIFIER:Hyperactive
+CLASSIFIER:Hyperglycemia
+CLASSIFIER:Impulsive
+CLASSIFIER:Indigestion
+CLASSIFIER:Insomnia
+CLASSIFIER:Intestinal bleeding
+CLASSIFIER:Irregular heartbeat
+CLASSIFIER:Irritability
+CLASSIFIER:Irritable
+CLASSIFIER:Itching
+CLASSIFIER:Jaundice
+CLASSIFIER:Joint pain
+CLASSIFIER:Ketoacidosis
+CLASSIFIER:Kidney failure
+CLASSIFIER:Leg cramps
+CLASSIFIER:Liver damage
+CLASSIFIER:Loss of appetite
+CLASSIFIER:Low blood cell counts
+CLASSIFIER:Low blood pressure
+CLASSIFIER:Lower respiratory infection
+CLASSIFIER:Moodiness
+CLASSIFIER:Muscle pain
+CLASSIFIER:Nausea
+CLASSIFIER:Nightmares
+CLASSIFIER:Overly excited
+CLASSIFIER:Palpitations
+CLASSIFIER:Pancreatitis
+CLASSIFIER:Panicky
+CLASSIFIER:Personality disorder
+CLASSIFIER:Postural hypotension
+CLASSIFIER:Pulmonary thrombosis
+CLASSIFIER:Rectal bleeding
+CLASSIFIER:Seizures
+CLASSIFIER:Severe skin reactions
+CLASSIFIER:Severely restless
+CLASSIFIER:shortness of breath
+CLASSIFIER:Shortness of breath
+CLASSIFIER:Skin rash
+CLASSIFIER:Sleeplessness
+CLASSIFIER:Slow heartbeat
+CLASSIFIER:Sore throat
+CLASSIFIER:Spasm
+CLASSIFIER:Speech disorder
+CLASSIFIER:Stomach bleeding
+CLASSIFIER:Stomach pain
+CLASSIFIER:Stroke
+CLASSIFIER:Sweating
+CLASSIFIER:Sweats
+CLASSIFIER:Swelling
+CLASSIFIER:Thrombosis
+CLASSIFIER:tinnitus
+CLASSIFIER:Tiredness
+CLASSIFIER:Upper respiratory infection
+CLASSIFIER:Upset Stomach
+CLASSIFIER:urinary retention
+CLASSIFIER:Urinary tract infection
+CLASSIFIER:vertigo
+CLASSIFIER:Vomiting
+CLASSIFIER:Weakness
+CLASSIFIER:Weight gain
+CLASSIFIER:Weight loss
